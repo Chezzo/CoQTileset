@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<objects>
+	<object Name="Mehmet" Load="Merge">
+		<part Name="Render" Tile="Creatures/sw_mehmet.png"></part>
+	</object>
+	<object Name="Doru" Load="Merge">
+		<part Name="Render" Tile="Creatures/sw_tam.png"></part>
+	</object>
+	<object Name="Warden Ualraig" Load="Merge">
+		<part Name="Render" Tile="Creatures/sw_ualraig.png"></part>
+	</object>
+	<object Name="Workbench" Load="Merge">
+		<part Name="Render" Tile="Items/sw_table.png"></part>
+	</object>
+	
+</objects>
